@@ -13,5 +13,5 @@ Easy way: If you love your life :)
 Hard way: In this you will generate object file and link the necessary libraries to get an executable file.
 First copy the location of folder in which kernel32 present from you minGw folder.
 1. as 01helloWorld -o 01HelloWorld.o
-2. ld 01helloWorld -L"--loction of folder--" -lkernel32  -o 01HelloWorld.exe
+2. ld 01helloWorld -L"--location of folder--" -lkernel32  -o 01HelloWorld.exe
 3. Follow step 3 of "If you love your life" method.
